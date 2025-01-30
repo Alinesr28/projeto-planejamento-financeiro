@@ -8,7 +8,7 @@
 
 ### 💻 Tecnologias utilizadas no projeto
 
-  [Excel](https://www.microsoft.com/en/microsoft-365/excel)
+- [Excel](https://www.microsoft.com/en/microsoft-365/excel)
 
 
 ### ✨ Como foi feito ?
@@ -18,5 +18,5 @@
 
 ### 📚 Materiais
 
-  Arquivo do "Excel" com a Dashbord em `output`
+- Arquivo do "Excel" com a Dashbord em `output`
 
